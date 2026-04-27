@@ -115,7 +115,7 @@ with tab1:
                              use_container_width=True,
                              type="primary",
                              key="predict_csv"):
-                    prediction  = model.predict(input_df_final)[0]
+                    prediction  = int(model.predict(input_df_final)[0])
                     probability = model.predict_proba(input_df_final)[0]
 
                     sex_map   = {0: 'Female', 1: 'Male'}
