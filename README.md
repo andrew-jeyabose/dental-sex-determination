@@ -130,8 +130,3 @@ This tool is intended for **forensic and clinical assistance only**.
 Results should be interpreted by a qualified dental or forensic professional.
 This tool does not replace expert clinical or forensic judgment.
 
----
-
-## 📧 Contact
-
-For questions or collaborations, please contact: **[your.email@institution.edu]**
