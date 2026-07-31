@@ -13,8 +13,8 @@ This tool was developed as part of a research study on forensic dental sex deter
 | **Model** | LightGBM Classifier (max_depth=2) |
 | **Input Features** | 56 (MD + BL measurements for teeth 11–17, 21–27, 31–37, 41–47) |
 | **Output** | Male / Female with confidence score |
-| **Accuracy** | 81.2% |
-| **F1-Score** | 0.811 |
+| **Accuracy** | ****% |
+| **F1-Score** | **** |
 
 ---
 
@@ -106,10 +106,10 @@ dental-sex-determination/
 
 | Metric | Score |
 |---|---|
-| Accuracy | 0.812 |
-| Precision | 0.816 |
-| Recall | 0.824 |
-| F1-Score | 0.811 |
+| Accuracy | **** |
+| Precision | **** |
+| Recall | **** |
+| F1-Score | **** |
 | ROC-AUC | — |
 
 ---
